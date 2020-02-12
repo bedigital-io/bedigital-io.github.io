@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="744" height="614.43" viewBox="0 0 744 614.43">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00cc98" stop-opacity="0.749"/>
+      <stop offset="0.409" stop-color="#fce6d7" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00cc98" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#022c61" stop-opacity="0"/>
+      <stop offset="1" stop-color="#022c61" stop-opacity="0.949"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d8742f" stop-opacity="0"/>
+      <stop offset="1" stop-color="#d8742f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_7646" data-name="Group 7646" transform="translate(-778 -174)">
+    <rect id="Rectangle_70611" data-name="Rectangle 70611" width="150.654" height="487.096" transform="translate(786.456 444.001) rotate(-45)" opacity="0.265" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_70609" data-name="Rectangle 70609" width="430" height="115" transform="translate(837 174)" opacity="0.192" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectangle_70610" data-name="Rectangle 70610" width="113.895" height="113.895" rx="12" transform="translate(783.526 334.115)" fill="#00cc98"/>
+    <path id="Path_15801" data-name="Path 15801" d="M-165.059-237.277l129.19,129.92a5.56,5.56,0,0,0,9.5-3.921V-241.2a5.56,5.56,0,0,0-5.56-5.56H-161.116A5.56,5.56,0,0,0-165.059-237.277Z" transform="translate(1123.723 580.873)" fill="#d8742f"/>
+    <circle id="Ellipse_155" data-name="Ellipse 155" cx="57.5" cy="57.5" r="57.5" transform="translate(778 174)" fill="#102b5e"/>
+    <rect id="Rectangle_70616" data-name="Rectangle 70616" width="430" height="141" transform="translate(1092 334)" opacity="0.111" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>
